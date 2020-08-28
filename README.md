@@ -1,6 +1,6 @@
 # Typescript Prototypes
 
-> **Typescript Prototypes** is a collection of typescript prototypes, examples, etc.
+> **Typescript Prototypes** is a collection of typescript prototypes, examples, etc. The purpose of each prototype is to demonstrate how typescript can be used or how another technology can be combined with typescript.
 
 ## Getting started
 
